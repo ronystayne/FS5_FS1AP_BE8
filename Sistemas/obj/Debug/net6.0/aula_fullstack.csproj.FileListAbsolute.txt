@@ -1,0 +1,15 @@
+C:\aula_uc9_fullstack\aula_fullstack\bin\Debug\net6.0\aula_fullstack.exe
+C:\aula_uc9_fullstack\aula_fullstack\bin\Debug\net6.0\aula_fullstack.deps.json
+C:\aula_uc9_fullstack\aula_fullstack\bin\Debug\net6.0\aula_fullstack.runtimeconfig.json
+C:\aula_uc9_fullstack\aula_fullstack\bin\Debug\net6.0\aula_fullstack.dll
+C:\aula_uc9_fullstack\aula_fullstack\bin\Debug\net6.0\aula_fullstack.pdb
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.csproj.AssemblyReference.cache
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.AssemblyInfoInputs.cache
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.AssemblyInfo.cs
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.csproj.CoreCompileInputs.cache
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.dll
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\refint\aula_fullstack.dll
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.pdb
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\aula_fullstack.genruntimeconfig.cache
+C:\aula_uc9_fullstack\aula_fullstack\obj\Debug\net6.0\ref\aula_fullstack.dll
