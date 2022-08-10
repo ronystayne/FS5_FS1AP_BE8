@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aula_uc9_fullstack\\aula_fullstack\\aula_fullstack.csproj": {}
+    "C:\\aula_uc9_fullstack\\FS5_FS1AP_BE8\\UC10_BE_UC13_FULL\\FS5_FS1AP_BE8\\Sistemas\\aula_fullstack.csproj": {}
   },
   "projects": {
-    "C:\\aula_uc9_fullstack\\aula_fullstack\\aula_fullstack.csproj": {
+    "C:\\aula_uc9_fullstack\\FS5_FS1AP_BE8\\UC10_BE_UC13_FULL\\FS5_FS1AP_BE8\\Sistemas\\aula_fullstack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aula_uc9_fullstack\\aula_fullstack\\aula_fullstack.csproj",
+        "projectUniqueName": "C:\\aula_uc9_fullstack\\FS5_FS1AP_BE8\\UC10_BE_UC13_FULL\\FS5_FS1AP_BE8\\Sistemas\\aula_fullstack.csproj",
         "projectName": "aula_fullstack",
-        "projectPath": "C:\\aula_uc9_fullstack\\aula_fullstack\\aula_fullstack.csproj",
+        "projectPath": "C:\\aula_uc9_fullstack\\FS5_FS1AP_BE8\\UC10_BE_UC13_FULL\\FS5_FS1AP_BE8\\Sistemas\\aula_fullstack.csproj",
         "packagesPath": "C:\\Users\\RonyADS\\.nuget\\packages\\",
-        "outputPath": "C:\\aula_uc9_fullstack\\aula_fullstack\\obj\\",
+        "outputPath": "C:\\aula_uc9_fullstack\\FS5_FS1AP_BE8\\UC10_BE_UC13_FULL\\FS5_FS1AP_BE8\\Sistemas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RonyADS\\AppData\\Roaming\\NuGet\\NuGet.Config"

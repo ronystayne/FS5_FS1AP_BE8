@@ -7,7 +7,7 @@ namespace aula_fullstack
         public string? RazaoSocial { get; set; }
         
         
-        
+        public override void PagarImposto(float rendimento){}
         
     }
 }
