@@ -38,7 +38,22 @@ namespace aula_fullstack{
         }
 
     }
+    PessoaJuridica pj =new PessoaJuridica();
+     end.logradouro = "Rua x";
+        end.numero = 100;
+        end.complemento = "Qualquer coisa";
+        end.enderecoComercial = tru;
 
+        pj.endereco = end;
+        pj.cnpj = "12345678900001";
+        pj.RazaoSocial = "Pessoa Juridica";
+
+        bool (pj.Valido = pj.ValidarCNPJ(pj.cnpj)){
+                Console.WriteLine(cnpjvalido);
+        }else{
+            Console.WriteLine(cnpjvalido);
+        }
+    
 
 }
 
